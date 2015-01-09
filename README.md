@@ -1,9 +1,9 @@
 Casper Image Layout Demo
 ========================
+## Google image search like image layout.
+* Using jquery to layout images like google image search.
 
-[ ![Codeship Status for arunsivasankaran/quizz_app_fullstack](https://codeship.com/projects/4a122d90-5d7a-0132-485f-2ad1380750e7/status?branch=master)](https://codeship.com/projects/51102)
-
-### Installation
+### Screenshots
 
 ### Author
 
