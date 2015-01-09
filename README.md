@@ -4,7 +4,7 @@ Casper Image Layout Demo
 * Using jquery to layout images like google image search.
 
 ### Screenshots
-![drawing](https://www.dropbox.com/s/1ad9o8zjm8d99xt/Screenshot%202015-01-09%2000.06.07.png?dl=0)
+![drawing](https://i.imgur.com/NS1TTga.png)
 
 ### Author
 
