@@ -3,6 +3,10 @@ Casper Image Layout Demo
 ## Google image search like image layout.
 * Using jquery to layout images like google image search.
 
+### Live Site
+
+http://arunsivasankaran.github.io/casper-demo/
+
 ### Screenshots
 * FUllscreen
 ![fullscreen](https://i.imgur.com/NS1TTga.png)
