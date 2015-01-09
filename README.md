@@ -4,9 +4,13 @@ Casper Image Layout Demo
 * Using jquery to layout images like google image search.
 
 ### Screenshots
-![drawing](https://i.imgur.com/NS1TTga.png)
-![drawing](https://i.imgur.com/pGXkPN8.png)
-![drawing](https://i.imgur.com/dVDzIAm.png)
+* FUllscreen
+![fullscreen](https://i.imgur.com/NS1TTga.png)
+* Halfscreen
+![halfscreen](https://i.imgur.com/pGXkPN8.png)
+* quarterscreen
+![quarterscreen](https://i.imgur.com/dVDzIAm.png)
+
 ### Author
 
 * **Arun Sivasankaran**
@@ -16,7 +20,6 @@ Casper Image Layout Demo
 [![youtube/arun][youtube-icon]][youtube-link]
 [![email/arun][email-icon]][email-link]
 [![google/arun][google-icon]][google-link]
-
 
 ### License
 
@@ -36,8 +39,6 @@ Casper Image Layout Demo
    limitations under the License.
 
 ```
-
-
 
 [license-image]: http://img.shields.io/badge/license-Apache_2.0-blue.svg?style=flat
 [license-url]: LICENSE
