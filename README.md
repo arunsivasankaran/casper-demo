@@ -5,7 +5,7 @@ Casper Image Layout Demo
 
 ### Live Site
 
-http://arunsivasankaran.github.io/casper-demo/
+http://arunsivasankaran.github.io/google-imagelayout-demo/
 
 ### Screenshots
 * FUllscreen
@@ -70,5 +70,4 @@ http://arunsivasankaran.github.io/casper-demo/
 
 [youtube-icon]: http://i.imgur.com/8bGJCdM.png
 [youtube-link]: https://www.youtube.com/user/arunsivasankara
-
 
